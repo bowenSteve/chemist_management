@@ -5,6 +5,7 @@ Flask-Migrate==4.0.5
 Flask-CORS==4.0.0
 flask_bcrypt
 flask_jwt_extended
+flask_sqlalchemy
 
 # Database
 psycopg2-binary==2.9.7
